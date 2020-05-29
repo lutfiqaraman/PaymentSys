@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "g5BiTHQu3nJuv1tS4mm3IivJ4KoAqDo/IXtaVDJKHMPHegIyN4FzfGzw4/bP6R5YfoMdJt+Tc9rUKNUM6viFFA==",
+  "dgSpecHash": "ZFGZlYSeKlCLNo9E0CotiaYOfVIyCfUencqmLOJVe8lKQfR4icaKShXWhjIRTM3qGC+VTnpw+1iIdiE4A4JkTA==",
   "success": true,
   "projectFilePath": "C:\\Users\\lutfi\\Desktop\\PaymentSystem\\backend\\paymentapi\\PaymentAPI.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "C:\\Users\\lutfi\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.0-preview.4.20220.10\\microsoft.entityframeworkcore.design.5.0.0-preview.4.20220.10.nupkg.sha512",
     "C:\\Users\\lutfi\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.0-preview.4.20220.10\\microsoft.entityframeworkcore.relational.5.0.0-preview.4.20220.10.nupkg.sha512",
     "C:\\Users\\lutfi\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.0-preview.4.20220.10\\microsoft.entityframeworkcore.sqlserver.5.0.0-preview.4.20220.10.nupkg.sha512",
+    "C:\\Users\\lutfi\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.0-preview.4.20220.10\\microsoft.entityframeworkcore.tools.5.0.0-preview.4.20220.10.nupkg.sha512",
     "C:\\Users\\lutfi\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0-preview.2.20160.3\\microsoft.extensions.caching.abstractions.5.0.0-preview.2.20160.3.nupkg.sha512",
     "C:\\Users\\lutfi\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0-preview.2.20160.3\\microsoft.extensions.caching.memory.5.0.0-preview.2.20160.3.nupkg.sha512",
     "C:\\Users\\lutfi\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0-preview.2.20160.3\\microsoft.extensions.configuration.5.0.0-preview.2.20160.3.nupkg.sha512",
