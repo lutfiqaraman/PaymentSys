@@ -1,8 +1,28 @@
 {
   "version": 2,
-  "dgSpecHash": "SKcypKlZan4UPCMmCL1FIlugz0gCmzLLSXRFLIwdCMW6pHPPV6M4BBEYPRT4aEJNr/JWKFjundM44prW5+h67g==",
+  "dgSpecHash": "P7eOr1Z/ukJQ29+bgk76Iu3YmYq5S8rYtg7nS6N1j8Ll0YBxfV5XhCBeKHIUA1c5sUcTwQjOEehTr2Z6n9ljVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lutfi\\Desktop\\PaymentSytem\\backend\\PaymentAPI\\PaymentAPI.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\lutfi\\Desktop\\PaymentSystem\\backend\\paymentapi\\PaymentAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lutfi\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.0-preview.4.20220.10\\microsoft.entityframeworkcore.5.0.0-preview.4.20220.10.nupkg.sha512",
+    "C:\\Users\\lutfi\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.0-preview.4.20220.10\\microsoft.entityframeworkcore.abstractions.5.0.0-preview.4.20220.10.nupkg.sha512",
+    "C:\\Users\\lutfi\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.0-preview.4.20220.10\\microsoft.entityframeworkcore.analyzers.5.0.0-preview.4.20220.10.nupkg.sha512",
+    "C:\\Users\\lutfi\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0-preview.2.20160.3\\microsoft.extensions.caching.abstractions.5.0.0-preview.2.20160.3.nupkg.sha512",
+    "C:\\Users\\lutfi\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0-preview.2.20160.3\\microsoft.extensions.caching.memory.5.0.0-preview.2.20160.3.nupkg.sha512",
+    "C:\\Users\\lutfi\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0-preview.2.20160.3\\microsoft.extensions.configuration.5.0.0-preview.2.20160.3.nupkg.sha512",
+    "C:\\Users\\lutfi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0-preview.2.20160.3\\microsoft.extensions.configuration.abstractions.5.0.0-preview.2.20160.3.nupkg.sha512",
+    "C:\\Users\\lutfi\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0-preview.2.20160.3\\microsoft.extensions.configuration.binder.5.0.0-preview.2.20160.3.nupkg.sha512",
+    "C:\\Users\\lutfi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0-preview.2.20160.3\\microsoft.extensions.dependencyinjection.5.0.0-preview.2.20160.3.nupkg.sha512",
+    "C:\\Users\\lutfi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0-preview.2.20160.3\\microsoft.extensions.dependencyinjection.abstractions.5.0.0-preview.2.20160.3.nupkg.sha512",
+    "C:\\Users\\lutfi\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0-preview.2.20160.3\\microsoft.extensions.logging.5.0.0-preview.2.20160.3.nupkg.sha512",
+    "C:\\Users\\lutfi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0-preview.2.20160.3\\microsoft.extensions.logging.abstractions.5.0.0-preview.2.20160.3.nupkg.sha512",
+    "C:\\Users\\lutfi\\.nuget\\packages\\microsoft.extensions.options\\5.0.0-preview.2.20160.3\\microsoft.extensions.options.5.0.0-preview.2.20160.3.nupkg.sha512",
+    "C:\\Users\\lutfi\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0-preview.2.20160.3\\microsoft.extensions.primitives.5.0.0-preview.2.20160.3.nupkg.sha512",
+    "C:\\Users\\lutfi\\.nuget\\packages\\system.collections.immutable\\5.0.0-preview.2.20160.6\\system.collections.immutable.5.0.0-preview.2.20160.6.nupkg.sha512",
+    "C:\\Users\\lutfi\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0-preview.2.20160.6\\system.componentmodel.annotations.5.0.0-preview.2.20160.6.nupkg.sha512",
+    "C:\\Users\\lutfi\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0-preview.2.20160.6\\system.diagnostics.diagnosticsource.5.0.0-preview.2.20160.6.nupkg.sha512",
+    "C:\\Users\\lutfi\\.nuget\\packages\\system.memory\\4.5.2\\system.memory.4.5.2.nupkg.sha512",
+    "C:\\Users\\lutfi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0-preview.2.20160.6\\system.runtime.compilerservices.unsafe.5.0.0-preview.2.20160.6.nupkg.sha512"
+  ],
   "logs": []
 }

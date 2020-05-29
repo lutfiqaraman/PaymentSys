@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lutfi\\Desktop\\PaymentSytem\\backend\\PaymentAPI\\PaymentAPI.csproj": {}
+    "C:\\Users\\lutfi\\Desktop\\PaymentSystem\\backend\\paymentapi\\PaymentAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lutfi\\Desktop\\PaymentSytem\\backend\\PaymentAPI\\PaymentAPI.csproj": {
+    "C:\\Users\\lutfi\\Desktop\\PaymentSystem\\backend\\paymentapi\\PaymentAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lutfi\\Desktop\\PaymentSytem\\backend\\PaymentAPI\\PaymentAPI.csproj",
+        "projectUniqueName": "C:\\Users\\lutfi\\Desktop\\PaymentSystem\\backend\\paymentapi\\PaymentAPI.csproj",
         "projectName": "PaymentAPI",
-        "projectPath": "C:\\Users\\lutfi\\Desktop\\PaymentSytem\\backend\\PaymentAPI\\PaymentAPI.csproj",
+        "projectPath": "C:\\Users\\lutfi\\Desktop\\PaymentSystem\\backend\\paymentapi\\PaymentAPI.csproj",
         "packagesPath": "C:\\Users\\lutfi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lutfi\\Desktop\\PaymentSytem\\backend\\PaymentAPI\\obj\\",
+        "outputPath": "C:\\Users\\lutfi\\Desktop\\PaymentSystem\\backend\\paymentapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -40,6 +40,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0-preview.4.20220.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
