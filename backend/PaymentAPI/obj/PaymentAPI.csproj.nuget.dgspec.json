@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lutfi\\Desktop\\PaymentSystem\\backend\\paymentapi\\PaymentAPI.csproj": {}
+    "C:\\Users\\lutfi\\Desktop\\PaymentSystem\\backend\\paymentAPI\\PaymentAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lutfi\\Desktop\\PaymentSystem\\backend\\paymentapi\\PaymentAPI.csproj": {
+    "C:\\Users\\lutfi\\Desktop\\PaymentSystem\\backend\\paymentAPI\\PaymentAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lutfi\\Desktop\\PaymentSystem\\backend\\paymentapi\\PaymentAPI.csproj",
+        "projectUniqueName": "C:\\Users\\lutfi\\Desktop\\PaymentSystem\\backend\\paymentAPI\\PaymentAPI.csproj",
         "projectName": "PaymentAPI",
-        "projectPath": "C:\\Users\\lutfi\\Desktop\\PaymentSystem\\backend\\paymentapi\\PaymentAPI.csproj",
+        "projectPath": "C:\\Users\\lutfi\\Desktop\\PaymentSystem\\backend\\paymentAPI\\PaymentAPI.csproj",
         "packagesPath": "C:\\Users\\lutfi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lutfi\\Desktop\\PaymentSystem\\backend\\paymentapi\\obj\\",
+        "outputPath": "C:\\Users\\lutfi\\Desktop\\PaymentSystem\\backend\\paymentAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,6 +41,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
               "version": "[3.1.4, )"

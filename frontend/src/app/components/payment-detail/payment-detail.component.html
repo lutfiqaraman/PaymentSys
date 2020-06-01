@@ -1,4 +1,4 @@
-<form #paymentDataForm="ngForm" autocomplete="off">
+<form #paymentDataForm="ngForm" autocomplete="off" (submit)="onSubmitData(paymentDataForm)">
 
   <div class="form-group">
     <div class="input-group">
