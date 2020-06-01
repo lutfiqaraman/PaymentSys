@@ -1,1 +1,57 @@
-<p>payment-detail works!</p>
+<form #paymentDataForm="ngForm" autocomplete="off">
+
+  <div class="form-group">
+    <div class="input-group">
+      <div class="input-group-prepend">
+        <div class="input-group-text bg-white">
+          <i class="fa fa-user-circle" aria-hidden="true"></i>
+        </div>
+      </div>
+      <input type="text" class="form-control" id="CardOwner" name="CardOwner" required placeholder="Card Owner" [(ngModel)]="paymentService.paymentForm.CardOwner" #CardOwnerControl="ngModel">
+    </div> 
+  </div>
+
+  <div class="form-group">
+    <div class="input-group">
+      <div class="input-group-prepend">
+        <div class="input-group-text bg-white">
+          <i class="fa fa-credit-card" aria-hidden="true"></i>
+        </div>
+      </div>
+      <input class="form-control" name="CardNumber" #CardNumber="ngModel" [(ngModel)]="paymentService.paymentForm.CardNumber" placeholder="Card Number" required minlength="16" maxlength="16" required>
+    </div> 
+  </div>
+
+  <div class="form-row">
+
+    <div class="form-group col-md-7">
+      <div class="input-group">
+        <div class="input-group-prepend">
+          <div class="input-group-text bg-white">
+            <i class="fa fa-calendar" aria-hidden="true"></i>
+          </div>
+        </div>
+        <input class="form-control" name="ExpirationDate" #ExpirationDate="ngModel" [(ngModel)]="paymentService.paymentForm.ExpirationDate" placeholder="MM/YY" required minlength="5" maxlength="5" required>
+      </div> 
+    </div>
+
+    <div class="form-group col-md-5">
+      <div class="input-group">
+        <div class="input-group-prepend">
+          <div class="input-group-text bg-white">
+            <i class="fa fa-key" aria-hidden="true"></i>
+          </div>
+        </div>
+        <input type="password" class="form-control" name="CVV" #CVV="ngModel" [(ngModel)]="paymentService.paymentForm.CVV" placeholder="CVV" required minlength="3" maxlength="3" required>
+      </div> 
+    </div>
+
+  </div>
+  
+
+  
+
+  <div class="form-group">
+    <button class="btn btn-success btn-lg btn-block" type="submit">Submit</button>
+  </div>
+</form>
