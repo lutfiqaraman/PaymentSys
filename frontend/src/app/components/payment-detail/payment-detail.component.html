@@ -1,5 +1,5 @@
 <form #paymentDataForm="ngForm" autocomplete="off" (submit)="onSubmitData(paymentDataForm)">
-
+  <input type="text" type="hidden" [value]="paymentService.paymentForm.PMId">
   <div class="form-group">
     <div class="input-group">
       <div class="input-group-prepend">
