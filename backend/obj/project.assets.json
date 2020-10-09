@@ -5327,11 +5327,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\lutfi\\Desktop\\PaymentSystem\\backend\\PaymentAPI\\PaymentAPI.csproj",
+      "projectUniqueName": "C:\\Users\\lutfi\\Desktop\\PaymentSystem\\backend\\PaymentAPI.csproj",
       "projectName": "PaymentAPI",
-      "projectPath": "c:\\Users\\lutfi\\Desktop\\PaymentSystem\\backend\\PaymentAPI\\PaymentAPI.csproj",
+      "projectPath": "C:\\Users\\lutfi\\Desktop\\PaymentSystem\\backend\\PaymentAPI.csproj",
       "packagesPath": "C:\\Users\\lutfi\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\lutfi\\Desktop\\PaymentSystem\\backend\\PaymentAPI\\obj\\",
+      "outputPath": "C:\\Users\\lutfi\\Desktop\\PaymentSystem\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5408,7 +5408,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
